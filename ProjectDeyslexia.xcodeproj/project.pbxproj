@@ -10,9 +10,22 @@
 		DBBA93FA2D0FFCA900BF6A55 /* ProjectDeyslexia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectDeyslexia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DBBA94442D0FFDD600BF6A55 /* Exceptions for "ProjectDeyslexia" folder in "ProjectDeyslexia" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = DBBA93F92D0FFCA900BF6A55 /* ProjectDeyslexia */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		DBBA93FC2D0FFCA900BF6A55 /* ProjectDeyslexia */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				DBBA94442D0FFDD600BF6A55 /* Exceptions for "ProjectDeyslexia" folder in "ProjectDeyslexia" target */,
+			);
 			path = ProjectDeyslexia;
 			sourceTree = "<group>";
 		};
@@ -255,6 +268,7 @@
 				DEVELOPMENT_TEAM = CPSJQMMQ8M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ProjectDeyslexia/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +298,7 @@
 				DEVELOPMENT_TEAM = CPSJQMMQ8M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ProjectDeyslexia/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
